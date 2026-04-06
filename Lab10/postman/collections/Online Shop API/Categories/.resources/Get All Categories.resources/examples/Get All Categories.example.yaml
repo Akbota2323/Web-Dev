@@ -1,0 +1,22 @@
+$kind: http-example
+request:
+  url: http://127.0.0.1:8000/api/categories/
+  method: GET
+response:
+  statusCode: 200
+  statusText: OK
+  headers:
+    date: Mon, 30 Mar 2026 13:18:43 GMT
+    server: WSGIServer/0.2 CPython/3.14.3
+    content-type: application/json
+    vary: Accept, Cookie
+    allow: GET, POST, HEAD, OPTIONS
+    x-frame-options: DENY
+    content-length: "52"
+    x-content-type-options: nosniff
+    referrer-policy: same-origin
+    cross-origin-opener-policy: same-origin
+  body:
+    type: json
+    content: '[{"id":2,"name":"Laptop"},{"id":3,"name":"Tablets"}]'
+order: 1774885492149

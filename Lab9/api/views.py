@@ -1,23 +1,16 @@
-from rest_framework import viewsets
-from rest_framework.decorators import action
-from rest_framework.response import Response
+from django.urls import path
+from api.views import (
+    ProductListAPIView,
+    ProductDetailAPIView,
+    CategoryListAPIView,
+    CategoryDetailAPIView,
+    CategoryProductsAPIView
+)
 
-from .models import Category, Product
-from .serializers import CategorySerializer, ProductSerializer
-
-
-class CategoryViewSet(viewsets.ModelViewSet):
-    queryset = Category.objects.all()
-    serializer_class = CategorySerializer
-
-    @action(detail=True, methods=['get'])
-    def products(self, request, pk=None):
-        category = self.get_object()
-        products = category.products.all()
-        serializer = ProductSerializer(products, many=True)
-        return Response(serializer.data)
-
-
-class ProductViewSet(viewsets.ModelViewSet):
-    queryset = Product.objects.all()
-    serializer_class = ProductSerializer
+urlpatterns = [
+    path('products/', ProductListAPIView.as_view()),
+    path('products/<int:product_id>/', ProductDetailAPIView.as_view()),
+    path('categories/', CategoryListAPIView.as_view()),
+    path('categories/<int:category_id>/', CategoryDetailAPIView.as_view()),
+    path('categories/<int:category_id>/products/', CategoryProductsAPIView.as_view()),
+]

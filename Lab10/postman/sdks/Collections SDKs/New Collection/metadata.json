@@ -1,0 +1,88 @@
+{
+  "entityId": "5207841eFdedE2cABEc4Efe8",
+  "entityType": "collections",
+  "createdAt": "2026-03-30T13:23:45.210Z",
+  "downloads": [
+    {
+      "language": "typescript",
+      "status": "success",
+      "createdAt": "2026-03-30T13:23:45.219Z",
+      "link": "https://us-prod-sdk-gen-api-code-gen-uploads.s3.us-east-1.amazonaws.com/e0cdcdc8-c333-42e9-9ff9-4707b9556278/new-collection-sdk-typescript-1.0.0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LJBU7F67QYNMS%2F20260330%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260330T132356Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEF0aCXVzLWVhc3QtMSJIMEYCIQDjrSCQSRDl6H8Tw4Y2TTJ4WqOoCTSoZUOLwRISta8kygIhAJR8GQUf4%2FHC5D1feJFCKjHGDG6B7qM4gi0%2FgGvMi7CtKpMFCCYQABoMNjM3NDIzNjUyMTU4IgyIz3kuLogZjPsFXsUq8ARJ3kmKGk1oFhf3%2Br6YxKOJ5d4D8g1uP1ExuPjKlv0ABYuZV5Rrv9AWu8SZfowwy8JEVaC0cLxWa%2BMkOirQtSq8ygkfEozQfiYiFLXBXTIYXOCrunWgcL30w7QfcBdqvZQNydw3KBtAjVfd2pE8iQ4iaGhkKN8RW1%2FvAgIux4IPkMK53GO6e9VQ6gHQs95sisloMdP1kf%2BN7YxH4pJXD%2FoeO7Xr9F50I8tF1MK%2BpOADROYNl13bLS%2F5L8kbm91R7hAMNdLrN8CEMspNV0N3xMCqIHPqjmvzge0eRH4%2Fk77wE81RAuqA8SFFl3h30KuHeUpVd1CcD8c%2FLWqg3tm2PrQjblzoAK3lZybgkUSchCs4bBUfTOAaTVcWkU4gTJNb%2BPDeVDta3QZYIPJTtzFEmuTWWIYk4EIMv6%2FjUAsz51vGa07c0yyaFEiVE0UVgGqSBAk8Oe2sA%2BxKrOYeQ441cHbSEAR2XU3XMBnC5HEGU4ik4wpyR2MikroMiGmLVXf5fcz2MlA6LFb97lDmXVQDuhe2MJL9cFnxO9WyZxncaMfkIKC%2BXoYE8G4gP4J6Stf%2FKtzOzwZus57IxTbpqyUjG0Fi58XSzjlHta6tRAj8r1eQnnbHPV6A2F20AtnDB%2Bkllmi%2BYUXWaVBULDTeNbAcpuhgiFi7pBqi7pd3BuZ54Ze1o6WhCL9mioTYWzatT7ZWLU5MpM%2FEIs520xuFV%2BH27ANzpFXtD8SPTDr2ZKU1QMkQ1I8apFDlfTzTCVbpWFY9c9ZC%2FOCb7Wg6g9pe0VE%2BoiS8evg%2FN%2FZhkbvVzQjydNPXayNpIvABUhzOiOfRkpOXSPkwuOWpzgY6mAFLl6DnXcpGbhxrQa57biub1ea1H%2FgjihDRmDDEjrHJXAodZGmpDYoyKaE3iRUlmmlGsO0nEVDeGJKqE0NtMFYD5qGbkqgm2GbLSkuDspP54XwFKGRL%2F2qNOF1fsg97Iq1IyMC7auXfe1%2FKJKTgIio8kd5nzTIeZ1A93MKyw6DrALWWa4PEgZrgnqoXfZvr7Xrk54UMHnEctg%3D%3D&X-Amz-Signature=205da91c8b5b14abf82bf484e580a52837c47e9ef4c456ebe5c278d2b68f9000&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "contentHash": "51495ee654b8a6758b83b022dd201f57d6cd9c85efba2dcdeaffe07f1b3c8897",
+      "logs": [
+        {
+          "message": "No request block was provided for this item in the postman collection. The SDK will not include this item.",
+          "severity": "WARN",
+          "path": "Categories",
+          "createdAt": "2026-03-30T13:23:51.004Z"
+        },
+        {
+          "message": "No request block was provided for this item in the postman collection. The SDK will not include this item.",
+          "severity": "WARN",
+          "path": "Products",
+          "createdAt": "2026-03-30T13:23:51.004Z"
+        },
+        {
+          "message": "No url was provided for any item in this postman collection. The SDK will default to the example default (https://api.example.com) which likely will not work with your API.",
+          "severity": "WARN",
+          "path": null,
+          "createdAt": "2026-03-30T13:23:51.004Z"
+        }
+      ]
+    },
+    {
+      "language": "java",
+      "status": "success",
+      "createdAt": "2026-03-30T13:23:45.220Z",
+      "link": "https://us-prod-sdk-gen-api-code-gen-uploads.s3.us-east-1.amazonaws.com/dcc5b286-22a9-49b9-a083-9d02479bfb53/new-collection-sdk-java-1.0.0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LJBU7F67QYNMS%2F20260330%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260330T132356Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEF0aCXVzLWVhc3QtMSJIMEYCIQDjrSCQSRDl6H8Tw4Y2TTJ4WqOoCTSoZUOLwRISta8kygIhAJR8GQUf4%2FHC5D1feJFCKjHGDG6B7qM4gi0%2FgGvMi7CtKpMFCCYQABoMNjM3NDIzNjUyMTU4IgyIz3kuLogZjPsFXsUq8ARJ3kmKGk1oFhf3%2Br6YxKOJ5d4D8g1uP1ExuPjKlv0ABYuZV5Rrv9AWu8SZfowwy8JEVaC0cLxWa%2BMkOirQtSq8ygkfEozQfiYiFLXBXTIYXOCrunWgcL30w7QfcBdqvZQNydw3KBtAjVfd2pE8iQ4iaGhkKN8RW1%2FvAgIux4IPkMK53GO6e9VQ6gHQs95sisloMdP1kf%2BN7YxH4pJXD%2FoeO7Xr9F50I8tF1MK%2BpOADROYNl13bLS%2F5L8kbm91R7hAMNdLrN8CEMspNV0N3xMCqIHPqjmvzge0eRH4%2Fk77wE81RAuqA8SFFl3h30KuHeUpVd1CcD8c%2FLWqg3tm2PrQjblzoAK3lZybgkUSchCs4bBUfTOAaTVcWkU4gTJNb%2BPDeVDta3QZYIPJTtzFEmuTWWIYk4EIMv6%2FjUAsz51vGa07c0yyaFEiVE0UVgGqSBAk8Oe2sA%2BxKrOYeQ441cHbSEAR2XU3XMBnC5HEGU4ik4wpyR2MikroMiGmLVXf5fcz2MlA6LFb97lDmXVQDuhe2MJL9cFnxO9WyZxncaMfkIKC%2BXoYE8G4gP4J6Stf%2FKtzOzwZus57IxTbpqyUjG0Fi58XSzjlHta6tRAj8r1eQnnbHPV6A2F20AtnDB%2Bkllmi%2BYUXWaVBULDTeNbAcpuhgiFi7pBqi7pd3BuZ54Ze1o6WhCL9mioTYWzatT7ZWLU5MpM%2FEIs520xuFV%2BH27ANzpFXtD8SPTDr2ZKU1QMkQ1I8apFDlfTzTCVbpWFY9c9ZC%2FOCb7Wg6g9pe0VE%2BoiS8evg%2FN%2FZhkbvVzQjydNPXayNpIvABUhzOiOfRkpOXSPkwuOWpzgY6mAFLl6DnXcpGbhxrQa57biub1ea1H%2FgjihDRmDDEjrHJXAodZGmpDYoyKaE3iRUlmmlGsO0nEVDeGJKqE0NtMFYD5qGbkqgm2GbLSkuDspP54XwFKGRL%2F2qNOF1fsg97Iq1IyMC7auXfe1%2FKJKTgIio8kd5nzTIeZ1A93MKyw6DrALWWa4PEgZrgnqoXfZvr7Xrk54UMHnEctg%3D%3D&X-Amz-Signature=720803882f8dad24e79bb302d6454ee5fe9fa6d6c7ea025b7e0cc54ccca829d3&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "contentHash": "546dbde3877a76435a8815a77e9fc9d7b44e2035cc0ff261437f08d367ed4ddd",
+      "logs": [
+        {
+          "message": "No request block was provided for this item in the postman collection. The SDK will not include this item.",
+          "severity": "WARN",
+          "path": "Categories",
+          "createdAt": "2026-03-30T13:23:50.415Z"
+        },
+        {
+          "message": "No request block was provided for this item in the postman collection. The SDK will not include this item.",
+          "severity": "WARN",
+          "path": "Products",
+          "createdAt": "2026-03-30T13:23:50.415Z"
+        },
+        {
+          "message": "No url was provided for any item in this postman collection. The SDK will default to the example default (https://api.example.com) which likely will not work with your API.",
+          "severity": "WARN",
+          "path": null,
+          "createdAt": "2026-03-30T13:23:50.415Z"
+        }
+      ]
+    },
+    {
+      "language": "python",
+      "status": "success",
+      "createdAt": "2026-03-30T13:23:45.220Z",
+      "link": "https://us-prod-sdk-gen-api-code-gen-uploads.s3.us-east-1.amazonaws.com/dde38f23-ecbb-478b-aa0a-2df0a7b61b8d/new-collection-sdk-python-1.0.0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LJBU7F67QYNMS%2F20260330%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260330T132356Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEF0aCXVzLWVhc3QtMSJIMEYCIQDjrSCQSRDl6H8Tw4Y2TTJ4WqOoCTSoZUOLwRISta8kygIhAJR8GQUf4%2FHC5D1feJFCKjHGDG6B7qM4gi0%2FgGvMi7CtKpMFCCYQABoMNjM3NDIzNjUyMTU4IgyIz3kuLogZjPsFXsUq8ARJ3kmKGk1oFhf3%2Br6YxKOJ5d4D8g1uP1ExuPjKlv0ABYuZV5Rrv9AWu8SZfowwy8JEVaC0cLxWa%2BMkOirQtSq8ygkfEozQfiYiFLXBXTIYXOCrunWgcL30w7QfcBdqvZQNydw3KBtAjVfd2pE8iQ4iaGhkKN8RW1%2FvAgIux4IPkMK53GO6e9VQ6gHQs95sisloMdP1kf%2BN7YxH4pJXD%2FoeO7Xr9F50I8tF1MK%2BpOADROYNl13bLS%2F5L8kbm91R7hAMNdLrN8CEMspNV0N3xMCqIHPqjmvzge0eRH4%2Fk77wE81RAuqA8SFFl3h30KuHeUpVd1CcD8c%2FLWqg3tm2PrQjblzoAK3lZybgkUSchCs4bBUfTOAaTVcWkU4gTJNb%2BPDeVDta3QZYIPJTtzFEmuTWWIYk4EIMv6%2FjUAsz51vGa07c0yyaFEiVE0UVgGqSBAk8Oe2sA%2BxKrOYeQ441cHbSEAR2XU3XMBnC5HEGU4ik4wpyR2MikroMiGmLVXf5fcz2MlA6LFb97lDmXVQDuhe2MJL9cFnxO9WyZxncaMfkIKC%2BXoYE8G4gP4J6Stf%2FKtzOzwZus57IxTbpqyUjG0Fi58XSzjlHta6tRAj8r1eQnnbHPV6A2F20AtnDB%2Bkllmi%2BYUXWaVBULDTeNbAcpuhgiFi7pBqi7pd3BuZ54Ze1o6WhCL9mioTYWzatT7ZWLU5MpM%2FEIs520xuFV%2BH27ANzpFXtD8SPTDr2ZKU1QMkQ1I8apFDlfTzTCVbpWFY9c9ZC%2FOCb7Wg6g9pe0VE%2BoiS8evg%2FN%2FZhkbvVzQjydNPXayNpIvABUhzOiOfRkpOXSPkwuOWpzgY6mAFLl6DnXcpGbhxrQa57biub1ea1H%2FgjihDRmDDEjrHJXAodZGmpDYoyKaE3iRUlmmlGsO0nEVDeGJKqE0NtMFYD5qGbkqgm2GbLSkuDspP54XwFKGRL%2F2qNOF1fsg97Iq1IyMC7auXfe1%2FKJKTgIio8kd5nzTIeZ1A93MKyw6DrALWWa4PEgZrgnqoXfZvr7Xrk54UMHnEctg%3D%3D&X-Amz-Signature=1b82532303e70c5252f6317bcf64b3da5f8df15e5abd626cb62dfa8a6d0938cd&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "contentHash": "3f173752093f0f4508efcd16870cbe143e02dcf7c6623d41bfcc2dfd3638e200",
+      "logs": [
+        {
+          "message": "No request block was provided for this item in the postman collection. The SDK will not include this item.",
+          "severity": "WARN",
+          "path": "Categories",
+          "createdAt": "2026-03-30T13:23:49.446Z"
+        },
+        {
+          "message": "No request block was provided for this item in the postman collection. The SDK will not include this item.",
+          "severity": "WARN",
+          "path": "Products",
+          "createdAt": "2026-03-30T13:23:49.446Z"
+        },
+        {
+          "message": "No url was provided for any item in this postman collection. The SDK will default to the example default (https://api.example.com) which likely will not work with your API.",
+          "severity": "WARN",
+          "path": null,
+          "createdAt": "2026-03-30T13:23:49.446Z"
+        }
+      ]
+    }
+  ]
+}
